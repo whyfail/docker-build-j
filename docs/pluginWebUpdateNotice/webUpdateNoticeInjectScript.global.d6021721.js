@@ -16,5 +16,5 @@
 
   window.__checkUpdateSetup__({"notificationProps":{"title":"系统升级通知","description":"检测到当前系统版本已更新，请刷新页面后使用","buttonText":"刷新","dismissButtonText":"忽略"},"injectFileBase":"./"});
       ;const logFn = function bt(t,c){console.log(`version: %c${t}`,"color: #1677ff"),console.log(`release time: %c${new Date(c).toLocaleString()}`,"color: #1677ff")}
-      ;logFn('c104096', 1744977154787)
+      ;logFn('c104096', 1745302873874)
     
